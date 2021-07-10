@@ -58,6 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
     '4',
     'x',
     '/',
+    '%',
     'AC',
     '⌫',
     '5',
@@ -68,7 +69,6 @@ class _MyHomePageState extends State<MyHomePage> {
     '-',
     '+',
     '.',
-    '0',
     '+/-',
     '=',
   ];
